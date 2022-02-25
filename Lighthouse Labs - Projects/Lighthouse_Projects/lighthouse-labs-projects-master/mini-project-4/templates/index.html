@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Eligibility Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="title">
+            <h1>Loan Eligibility Predictor</h1>
+        </div>
+    </header>
+
+    <section class='form'>
+        <form action="{{ url_for('predict')}}" method="POST">
+            <div class='container'>
+                <h3>Basic Information</h3>
+                <div class='row'>
+                    <div class='col'><label>What is your gender?<input list="gender" name="Gender" /></label></div>
+                    <div class='col'> <label>What is your education level?<input list="education" name="Education" /></label></div>
+                </div>
+                <div class='row'>
+                    <div class='col'>
+                        <datalist id="gender">
+                            <option value="Male">
+                            <option value="Female">
+                         </datalist>
+                    </div>
+                    <div class='col'>
+                        <datalist id="education">
+                            <option value="Graduate">
+                            <option value="Not Graduate">
+                        </datalist>
+                    </div>
+                </div>
+                <div class='row'>
+                    <div class='col'> <label>Are you married? <input list="marriage" name="Marriage"/></label></div>
+                    <div class='col'><label>Are you self-employed?<input list="employed" name="Employed"/></label></div>
+                </div>  
+                <div class='row'>
+                    <div class='col'>
+                        <datalist id="marriage">
+                            <option value="Yes">
+                            <option value="No">
+                        </datalist>
+                    </div>
+                    <div class='col'>
+                        <datalist id="employed">
+                            <option value="Yes">
+                            <option value="No">
+                         </datalist>     
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class='container'>
+                <h3>Financial Status</h3>
+                <label>Does your credit history meet guidelines?<input list="credit" name="Credit"/></label>
+                    <datalist id="credit">
+                        <option value="Yes">
+                        <option value="No">
+                    </datalist>
+                 <input id=monthlyincome type="text" name="applicant_income" placeholder="Your monthly income..." required="required" />
+            </div>
+            <br>
+            <div class='container'>
+                <h3>Dependent Information</h3>
+                <label>How many dependents do you have? <input list="dependents" name="Dependents"/></label>
+                <datalist id="dependents">
+                    <option value="0">
+                    <option value="1">
+                    <option value="2">
+                    <option value="3+">
+                </datalist>
+                <input type="text" name="coapp_income" placeholder="Dependent's monthly income..." required="required" />
+            </div>
+            <br>
+            <div class='container'>
+                <h3>Loan Information</h3>
+                <label>Where is your property located?<input list="property" name="Property"/></label>
+                <datalist id="property">
+                    <option value="Urban">
+                    <option value="Rural">
+                    <option value="Semiurban">
+                </datalist>
+                <input type="text" name="loan_amount" placeholder="Loan amount..." required="required" />
+                <input type="text" name="loan_term" placeholder="Loan term..." required="required" />
+            </div>
+            <div class="d-flex justify-content-center">
+                <button class="btn btn-primary" type="submit">Predict Loan Eligibility</button>
+              </div>
+        </form>
+        <div class="result">
+            {{ prediction_text }} 
+        </div>
+    </section>
+    </div>
+</body>
+</html>

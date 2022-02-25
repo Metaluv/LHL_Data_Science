@@ -1,0 +1,51 @@
+,name,address,city,province,postal_code,rating,review_count,price,api
+0,Gotham Steakhouse & Cocktail Bar,615 Seymour St.,Vancouver,BC,V6B 3K3,0.9,117,4,foursquare
+1,Medina Café,780 Richards St,Vancouver,BC,V6B 2L3,0.9,789,2,foursquare
+2,The Keg Steakhouse + Bar - Dunsmuir,688 Dunsmuir Street,Vancouver,BC,V6B 1N3,0.9,158,2,foursquare
+3,Meat & Bread,370 Cambie St,Vancouver,BC,V6B 2N3,0.9,468,2,foursquare
+4,Le Crocodile Restaurant,909 Burrard St,Vancouver,BC,V6Z 2N2,0.9,63,4,foursquare
+5,The Poke Guy,420 Richards St,Vancouver,BC,V6B,0.9,24,0,foursquare
+6,Kokoro Tokyo Mazesoba,551 Seymore St,Vancouver,BC,V6B 3H6,0.8,23,1,foursquare
+7,Cartems Donuterie,534 W Pender St,Vancouver,BC,V6B 1V3,0.8,250,2,foursquare
+8,Paramount Fine Foods,560 Robson St,Vancouver,BC,V6B 2B7,0.8,21,0,foursquare
+9,Finch’s Tea & Coffee House,353 W Pender St,Vancouver,BC,V6B 1T3,0.8,125,2,foursquare
+10,Chambar,568 Beatty St,Vancouver,BC,V6B 2L3,0.9,390,3,foursquare
+11,La Taqueria,322 W Hastings St,Vancouver,BC,V6B 1K6,0.9,156,2,foursquare
+12,PureBread,159 W. Hastings DT,Vancouver,BC,0,0.9,104,1,foursquare
+13,Fanny Bay Oyster Bar,762 Cambie St,Vancouver,BC,V6B 2P2,0.8,41,3,foursquare
+14,Miku Restaurant,200 Granville Street,Vancouver,BC,V6C 1S4,0.9,412,3,foursquare
+15,Bacchus Lounge,845 Hornby St,Vancouver,BC,V6Z 2E7,0.8,49,4,foursquare
+16,New Amsterdam Cafe,301 W Hastings,Vancouver,BC,V6B 1G2,0.9,58,1,foursquare
+17,Joe Fortes Seafood & Chop House,777 Thurlow St,Vancouver,BC,V6E 3V5,0.9,385,3,foursquare
+18,Meat & Bread,1033 W Pender St,Vancouver,BC,V6E 2M6,0.9,114,2,foursquare
+19,Tacofino,1025 Mainland St,Vancouver,BC,0,0.9,64,1,foursquare
+20,Hy's Steakhouse,637 Hornby St,Vancouver,BC,V6C 2G2,0.8,66,4,foursquare
+21,Lupo,869 Hamilton St,Vancouver,BC,V6B 2R7,0.8,79,2,foursquare
+22,The Parlour,1011 Hamilton St.,Vancouver,BC,V6B 5T4,0.9,162,2,foursquare
+23,Jam Cafe,556 Beatty St.,Vancouver,BC,0,0.8,103,1,foursquare
+24,Gyu-Kaku Japanese BBQ,G3-888 Nelson St.,Vancouver,BC,V6Z 2H1,0.8,150,2,foursquare
+25,Blue Water Cafe + Raw Bar,1095 Hamilton St,Vancouver,BC,V6B 5T4,0.9,222,4,foursquare
+26,Minami,1118 Mainland St,Vancouver,BC,V6B 2T9,0.9,244,3,foursquare
+27,Tacofino Cantina,Howe St.,Vancouver,BC,0,0.8,17,2,foursquare
+28,Shizen Ya,985 Hornby St,Vancouver,BC,V6Z 1V3,0.8,148,1,foursquare
+29,49th Parallel & Lucky's Doughnuts,689 Thurlow,Vancouver,BC,V6E,0.8,84,1,foursquare
+30,Pourhouse,162 Water St,Vancouver,BC,V6B 2M9,0.9,270,2,foursquare
+31,La Terrazza Restaurant,1088 Cambie St.,Vancouver,BC,V6B 6J5,0.9,26,4,foursquare
+32,Five Guys,635 Robson Street,Vancouver,BC,V6B 5J3,0.8,244,2,foursquare
+33,CinCin,1154 Robson St,Vancouver,BC,V6E 1B2,0.9,71,1,foursquare
+34,Small Victory Bakery,1088 Homer St,Vancouver,BC,0,0.8,184,1,foursquare
+35,Meinhardt,Granville,Vancouver,BC,0,0.8,15,1,foursquare
+36,The Flying Pig Yaletown,1168 Hamilton St,Vancouver,BC,V6B 2S2,0.9,273,3,foursquare
+37,Meet in Gastown,12 Water St,Vancouver,BC,0,0.9,129,2,foursquare
+38,Caffè Artigiano,763 Hornby St,Vancouver,BC,V6Z 1S2,0.8,83,2,foursquare
+39,Cactus Club Cafe,588 Burrard St,Vancouver,BC,V6C 0A8,0.8,215,2,foursquare
+40,Honey Salt,39 Smythe,Vancouver,BC,V6B,0.9,23,2,foursquare
+41,Pholicious,550 W Hastings St,Vancouver,BC,V6B 1L6,0.8,18,2,foursquare
+42,La Taqueria Pinche Taco Shop,586 Hornby Street,Vancouver,BC,V6C 2E8,0.8,37,1,foursquare
+43,Pokerrito,Hornby St,Vancouver,BC,V6Z,0.8,13,0,foursquare
+44,Pizzeria Ludica,189 Keefer Place,Vancouver,BC,0,0.8,56,1,foursquare
+45,hungry guys,988 Granville St,Vancouver,BC,V6Z 1L2,0.8,23,1,foursquare
+46,Angus T,1036 Mainland Street,Vancouver,BC,V6B 2T4,0.8,13,1,foursquare
+47,Tap & Barrel,1055 Canada Pl.,Vancouver,BC,0,0.9,267,2,foursquare
+48,Guu Original,838 Thurlow St.,Vancouver,BC,V6E 1W2,0.8,204,1,foursquare
+49,Yolk's Breakfast,110 Dunsmuir Street,Vancouver,BC,0,0.8,27,1,foursquare

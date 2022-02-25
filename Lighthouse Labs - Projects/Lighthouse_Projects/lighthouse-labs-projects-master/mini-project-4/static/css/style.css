@@ -1,0 +1,28 @@
+header {
+    font-family: 'Roboto Condensed', sans-serif
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+header {
+    background-color: #073b4c;
+}
+
+.title {
+    padding: 40px 0px 40px 0px;
+}
+
+.container {
+    padding: 10px 0px 10px 0px;
+}
+
+.result {
+    text-align: center !important;
+    font-size: 30px !important;
+
+}

@@ -1,0 +1,51 @@
+,name,address,city,province,postal_code,rating,review_count,price,api
+0,Medina Cafe,780 Richards Street,Vancouver,BC,V6B 3A4,0.8,2309,2,yelp
+1,The Flying Pig - Yaletown,1168 Hamilton Street,Vancouver,BC,V6B 2S2,0.8,1090,2,yelp
+2,Le Crocodile Restaurant,909 Burrard Street,Vancouver,BC,V6Z 2N2,0.9,386,4,yelp
+3,Fanny Bay Oyster Bar & Shellfish Market,762 Cambie St,Vancouver,BC,V6B 2P2,0.9,575,2,yelp
+4,Chambar,568 Beatty Street,Vancouver,BC,V6B 2L3,0.8,1363,3,yelp
+5,Kokoro Tokyo Mazesoba,551 Seymour Street,Vancouver,BC,V6B 3H6,0.8,346,2,yelp
+6,Miku,200 Granville Street,Vancouver,BC,V6C 1S4,0.9,1816,3,yelp
+7,Lupo,869 Hamilton Street,Vancouver,BC,V6B 2R7,0.9,396,3,yelp
+8,Blue Water Cafe,1095 Hamilton St,Vancouver,BC,V6B 5T4,0.9,912,3,yelp
+9,Botanist,1038 Canada Place,Vancouver,BC,V6C 0B9,0.8,289,3,yelp
+10,La Taqueria Pinche Taco Shop,322 W Hastings Street,Vancouver,BC,V8B 1K6,0.9,477,2,yelp
+11,Kosoo,1128 Robson Street,Vancouver,BC,V6E 1B2,0.9,16,0,yelp
+12,Tendon Kohaku,840 Howe Street,Vancouver,BC,V6Z 2S9,0.9,6,0,yelp
+13,The Bottleneck,870 Granville Street,Vancouver,BC,V6B 2C9,0.8,89,2,yelp
+14,Black Rice Izakaya,782 Cambie Street,Vancouver,BC,V6B 2R5,0.8,238,2,yelp
+15,Elisa,1109 Hamilton Street,Vancouver,BC,V6B 5P6,0.9,125,3,yelp
+16,Holy Chow,433 W Pender Street,Vancouver,BC,V6B 1B2,0.8,6,0,yelp
+17,Hawksworth Restaurant,801 W Georgia Street,Vancouver,BC,V6C 1P7,0.8,553,4,yelp
+18,Jam Cafe on Beatty,556 Beatty Street,Vancouver,BC,V6B 2L3,0.9,1104,2,yelp
+19,1931 Gallery Bistro,750 Hornby Street,Vancouver,BC,V6Z 2H7,0.8,19,0,yelp
+20,Twisted Fork,213 Carral Street,Vancouver,BC,V6B 2J2,0.8,1036,2,yelp
+21,Nightingale,1017 West Hastings Street,Vancouver,BC,V6E 0C4,0.8,365,3,yelp
+22,Tokyo In April,526 Abbott St,Vancouver,BC,V6B 2L1,0.9,10,0,yelp
+23,Zefferelli's,1136 Robson Street,Vancouver,BC,V6E 1B2,0.8,421,2,yelp
+24,The Flying Pig - Gastown,102 Water Street,Vancouver,BC,V6B 2K8,0.8,930,2,yelp
+25,The Mexican Antojitos Y Cantina,1049 Granville Street,Vancouver,BC,V6Z 1L4,0.9,357,2,yelp
+26,Joe Fortes Seafood & Chop House,777 Thurlow Street,Vancouver,BC,V6E 3V5,0.8,1043,3,yelp
+27,Robba da Matti,1127 Mainland Street,Vancouver,BC,V6B 5P2,0.8,433,2,yelp
+28,Forage,1300 Robson Street,Vancouver,BC,V6E 1C5,0.8,641,2,yelp
+29,ARC Restaurant,900 Canada Place Way,Vancouver,BC,V6C 3L5,0.8,124,3,yelp
+30,Bread x Butter Cafe,140 - 925 West Georgia Street,Vancouver,BC,V6N 2L2,0.8,4,0,yelp
+31,Manoush'eh,620 Davie Street,Vancouver,BC,V6B 2G5,1.0,194,1,yelp
+32,JOEY Burrard,820 Burrard St,Vancouver,BC,V6Z 1X9,0.8,461,2,yelp
+33,Banter Room,1039 Mainland St,Vancouver,BC,V6B 5P9,0.7,100,2,yelp
+34,Gotham Steakhouse & Bar,615 Seymour Street,Vancouver,BC,V6B 3K3,0.8,366,4,yelp
+35,Brix & Mortar,1138 Homer Street,Vancouver,BC,V6B 2X6,0.8,283,3,yelp
+36,Autostrada Osteria,350 W Pender st,Vancouver,BC,V6B 1T1,0.8,23,0,yelp
+37,El Guapo,1009 Hamilton Street,Vancouver,BC,V6B 5T4,0.8,26,0,yelp
+38,Sushi Jin,750 Nelson Street,Vancouver,BC,V6Z 1A8,0.9,125,3,yelp
+39,The Poke Guy,420 Richards Street,Vancouver,BC,V6B 2Z4,0.9,187,2,yelp
+40,ZAC.ZAC Japanese Curry House,2 F - 590 Robson Street,Vancouver,BC,V6B 2B7,0.8,94,1,yelp
+41,OEB Breakfast Co.,1137 Marinaside Crescent,Vancouver,BC,V6Z 2Y3,0.9,405,2,yelp
+42,Tokyo Katsu-Sand,725 W Georgia St,Vancouver,BC,V7Y 1K8,0.7,14,0,yelp
+43,Pourhouse Restaurant,162 Water Street,Vancouver,BC,V6B 1B2,0.8,498,2,yelp
+44,The Parlour,1011 Hamilton Street,Vancouver,BC,V6B 5T4,0.8,411,2,yelp
+45,Open Outcry,811 West Pender,Vancouver,BC,V6C 1K6,0.9,11,0,yelp
+46,Nuba in Gastown,207 W Hastings Street,Vancouver,BC,V6B 1K6,0.8,691,2,yelp
+47,Bentoya,500 Robson Street,Vancouver,BC,V6Z 2H7,0.8,25,0,yelp
+48,Super Chef Grill,280 Robson Street,Vancouver,BC,V6B 0E7,0.9,73,1,yelp
+49,Moose's Down Under,830 Pender Street W,Vancouver,BC,V6C 1J8,0.8,119,2,yelp

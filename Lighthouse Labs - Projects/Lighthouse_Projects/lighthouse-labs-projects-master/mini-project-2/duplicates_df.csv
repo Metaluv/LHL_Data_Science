@@ -1,0 +1,17 @@
+,name,api,address,city,province,postal_code,rating,review_count,price
+0,Chambar,foursquare,568 Beatty St,Vancouver,BC,V6B 2L3,0.9,390,3
+1,Chambar,yelp,568 Beatty Street,Vancouver,BC,V6B 2L3,0.8,1363,3
+2,Joe Fortes Seafood & Chop House,foursquare,777 Thurlow St,Vancouver,BC,V6E 3V5,0.9,385,3
+3,Joe Fortes Seafood & Chop House,yelp,777 Thurlow Street,Vancouver,BC,V6E 3V5,0.8,1043,3
+4,Kokoro Tokyo Mazesoba,foursquare,551 Seymore St,Vancouver,BC,V6B 3H6,0.8,23,1
+5,Kokoro Tokyo Mazesoba,yelp,551 Seymour Street,Vancouver,BC,V6B 3H6,0.8,346,2
+6,La Taqueria Pinche Taco Shop,foursquare,586 Hornby Street,Vancouver,BC,V6C 2E8,0.8,37,1
+7,La Taqueria Pinche Taco Shop,yelp,322 W Hastings Street,Vancouver,BC,V8B 1K6,0.9,477,2
+8,Le Crocodile Restaurant,foursquare,909 Burrard St,Vancouver,BC,V6Z 2N2,0.9,63,4
+9,Le Crocodile Restaurant,yelp,909 Burrard Street,Vancouver,BC,V6Z 2N2,0.9,386,4
+10,Lupo,foursquare,869 Hamilton St,Vancouver,BC,V6B 2R7,0.8,79,2
+11,Lupo,yelp,869 Hamilton Street,Vancouver,BC,V6B 2R7,0.9,396,3
+12,The Parlour,foursquare,1011 Hamilton St.,Vancouver,BC,V6B 5T4,0.9,162,2
+13,The Parlour,yelp,1011 Hamilton Street,Vancouver,BC,V6B 5T4,0.8,411,2
+14,The Poke Guy,foursquare,420 Richards St,Vancouver,BC,V6B,0.9,24,0
+15,The Poke Guy,yelp,420 Richards Street,Vancouver,BC,V6B 2Z4,0.9,187,2
