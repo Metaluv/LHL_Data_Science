@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.write("""
 # Bearing Classification App
 
-This app predicts the **Palmer Penguin** species!
+This app is for Bearing Classification using CNN
 
 Data obtained from the [CWRU Bearing Data Set](https://engineering.case.edu/bearingdatacenter/download-data-file)
 """)
