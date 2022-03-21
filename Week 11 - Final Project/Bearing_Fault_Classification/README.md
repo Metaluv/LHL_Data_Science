@@ -1,5 +1,6 @@
 # CWRU_Bearing_Fault_Classification
 
+Presentation -- https://www.canva.com/design/DAE7lqrXAzA/mk8Pjbc1xUCGsutIuWWxZA/view?website#2:lighthouse-labs-final-project
 
 Step-1 -- Run the "CWRU_Bearing_data_preprocessing.ipynb"
 This will create all load condition in CSV format.
